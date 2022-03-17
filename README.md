@@ -1,5 +1,5 @@
 # Purpose
-# test git
+# test git switch git push account
 This is an R package with utility functions to assist in harmonizing digital soil repositories.
 The purpose of the Soil Organic Carbon Data Rescue and Harmonization Repository (SOC-DRaHR) is to collect harmonization scripts for data sets related to soil carbon to enable scientific research.
 This project identifies soil carbon datasets that are publicly available, provides data harmonization scripts to integrate those data sets, and provides output scripts for a harmonized data product.
